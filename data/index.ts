@@ -86,22 +86,22 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://fast-react-pizza-react-js.vercel.app/",
   },
-  {
-    id: 3,
-    title: "Management System for The Wild Oasis",
-    des: "A management system for a boutique hotel designed to streamline operations and guest management. Features include real-time UI updates for cabin management and comprehensive dashboard with statistical analytics.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://webitgenius-the-wild-oasis.netlify.app/dashboard",
-  },
-  {
-    id: 4,
-    title: "Customer Portal for The Wild Oasis",
-    des: "Engineered a customer-facing website for hotel booking integrated with the management system. It includes user authentication, profile management, and a dynamic reservation system with custom date selectors.",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://the-wild-oasis-website-black.vercel.app/",
-  },
+  // {
+  //   id: 3,
+  //   title: "Management System for The Wild Oasis",
+  //   des: "A management system for a boutique hotel designed to streamline operations and guest management. Features include real-time UI updates for cabin management and comprehensive dashboard with statistical analytics.",
+  //   img: "/p3.svg",
+  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+  //   link: "",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Customer Portal for The Wild Oasis",
+  //   des: "Engineered a customer-facing website for hotel booking integrated with the management system. It includes user authentication, profile management, and a dynamic reservation system with custom date selectors.",
+  //   img: "/p4.svg",
+  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+  //   link: "",
+  // },
 ];
 
 export const testimonials = [
